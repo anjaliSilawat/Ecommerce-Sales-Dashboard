@@ -1,4 +1,6 @@
 # 🛍️ Madhav eCommerce Sales Dashboard – Power BI Project
+<img width="1413" height="792" alt="Dashboard img" src="https://github.com/user-attachments/assets/76138f0d-6c1c-484f-9d0c-166105d19094" />
+
 
 ## 📌 1) Project Objective  
 To analyze and visualize eCommerce sales performance using Power BI. The goal is to uncover key insights from customer orders to help improve decision-making, profitability, and product strategies.
